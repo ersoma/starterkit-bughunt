@@ -7,3 +7,7 @@ Forked from https://github.com/getkirby/starterkit, this repository is created t
 Use the local php server to start the code: `composer run start`
 
 The panel user is already created, use `test@test.com` as the user and `testtest` as the password.
+
+# Screenshot of the panel
+
+![Screenshot](localhost_8000_panel_site.png)
