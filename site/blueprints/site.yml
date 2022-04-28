@@ -29,7 +29,7 @@ sections:
       - test
       - files
   page_method_without_files:
-    headline: Direct Access To Image (Without Files Type)
+    headline: Page Method To Image (Without Files Type)
     type: pages
     status: published
     layout: cards
