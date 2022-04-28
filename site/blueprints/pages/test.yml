@@ -1,0 +1,9 @@
+title: Test
+fields:
+  page_icon:
+    label: Page Icon
+    type: files
+    required: true
+    multiple: false
+    query: site.index.template('files').first().images
+    uploads: false
